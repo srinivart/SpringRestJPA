@@ -80,7 +80,19 @@ Resources : https://spring.io/guides/tutorials/rest/
 
 
  
- 
+
+Run in Local
+------------
+Launch the Employee RestFul Service in your local
+Navigate to the Payroll directory.
+
+PayrollApplication/target/PayrollApplication-0.0.1-SNAPSHOT.jar
+
+Run the below command
+
+java -jar PayrollApplication-0.0.1-SNAPSHOT.jar
+
+
  
  
  
